@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Matcher",
+  "description": "An application to manage your available ingredients and recipes. It shows you what you can cook based on the ingredients you have.",
+  "requestFramePermissions": []
+}
